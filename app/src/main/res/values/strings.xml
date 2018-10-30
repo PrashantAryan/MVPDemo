@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="internet">you are offline ! </string>
+</resources>
